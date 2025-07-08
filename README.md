@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nkiu.
-👀 I'm a passionate scientist and engineer in bioanalytics and biochemistry. I'm working on conceptualizing and innovating IVD systems.
-- Fast-prototyping (hardware, software and biosensors, and assay) systems to bring them alive.
-- Have a look to my publication :D
+👋 Hi, I’m @nkiu. 
+👀 I am a passionate scientist and engineer specializing in bioanalytics and biochemistry. Currently, I am focused on conceptualizing and innovating in vitro diagnostic (IVD) systems. 
+I work on fast prototyping of hardware, software, biosensors, and assays to bring these systems to life. 
+Feel free to check out my publications! :D
 
 <!---
 nkiu/nkiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
